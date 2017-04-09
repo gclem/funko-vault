@@ -3,5 +3,5 @@
 
 var fp = require('../index.js');
 
-fp.getAll()
+fp.list()
     .then((data) => console.dir(data, {depth : 3, colors : true}) );
