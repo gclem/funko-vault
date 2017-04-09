@@ -1,6 +1,6 @@
 {
   "name": "funko-vault",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get all the funko pop figurines list vaulted (not produced anymore)",
   "main": "index.js",
   "scripts": {
